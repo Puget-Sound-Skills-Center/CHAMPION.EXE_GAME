@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\5018838\\documents\\unreal projects\\myproject2\\intermediate\\build\\win64\\x64\\unrealgame\\development\\myproject2\\module.myproject2.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\5018838\\documents\\unreal projects\\myproject2\\intermediate\\build\\win64\\x64\\myproject2\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\5018838\\documents\\unreal projects\\myproject2\\intermediate\\build\\win64\\x64\\unrealgame\\development\\myproject2\\definitions.myproject2.h",
+            "c:\\users\\5018838\\documents\\unreal projects\\myproject2\\intermediate\\source\\myproject2.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
